@@ -6,7 +6,7 @@
   "page_count_1_valid": 144,
   "renderable_valid": 144,
   "non_zero_size_valid": 144,
-  "total_split_bytes": 166428142,
+  "total_split_bytes": 166428133,
   "page_sizes": {
     "page-001.pdf": 267700,
     "page-002.pdf": 240848,
@@ -62,7 +62,7 @@
     "page-052.pdf": 337160,
     "page-053.pdf": 1417419,
     "page-054.pdf": 1579721,
-    "page-055.pdf": 3007943,
+    "page-055.pdf": 3007939,
     "page-056.pdf": 1489942,
     "page-057.pdf": 1664371,
     "page-058.pdf": 354001,
@@ -105,7 +105,7 @@
     "page-095.pdf": 1697313,
     "page-096.pdf": 1453372,
     "page-097.pdf": 630607,
-    "page-098.pdf": 1135834,
+    "page-098.pdf": 1135831,
     "page-099.pdf": 1042440,
     "page-100.pdf": 1773525,
     "page-101.pdf": 3251623,
@@ -151,7 +151,7 @@
     "page-141.pdf": 697541,
     "page-142.pdf": 376657,
     "page-143.pdf": 126383,
-    "page-144.pdf": 126692
+    "page-144.pdf": 126690
   },
   "validation_passed": true
 }

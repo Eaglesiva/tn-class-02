@@ -6,7 +6,7 @@
   "page_count_1_valid": 120,
   "renderable_valid": 120,
   "non_zero_size_valid": 120,
-  "total_split_bytes": 133338813,
+  "total_split_bytes": 133338816,
   "page_sizes": {
     "page-001.pdf": 248754,
     "page-002.pdf": 232915,
@@ -56,7 +56,7 @@
     "page-046.pdf": 1804680,
     "page-047.pdf": 452006,
     "page-048.pdf": 131222,
-    "page-049.pdf": 134514,
+    "page-049.pdf": 134517,
     "page-050.pdf": 127936,
     "page-051.pdf": 144611,
     "page-052.pdf": 192498,
